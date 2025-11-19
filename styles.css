@@ -1,0 +1,27 @@
+body {
+     background: linear-gradient(135deg, #fff7e6, #ffe6f2, #e6f7ff);
+    background-attachment: fixed;
+    font-family: Georgia, serif;
+
+}
+
+header h1 {
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.recipe-post {
+    background: white;
+}
+
+nav a {
+    font-weight: 500;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer a:hover {
+    opacity: 0.6;
+}
